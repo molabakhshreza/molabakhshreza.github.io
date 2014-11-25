@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: 'pacifico';
+	src: url("../fonts/Pacifico.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'bpdots';
+	src: url("../fonts/BPdotsCondensedDiamond.ttf") format("truetype");
+
+}@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.0.3');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Yekan';
+  src: url('assets/fonts/YekanWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('assets/fonts/YekanWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/YekanWeb-Regular.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/YekanWeb-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/YekanWeb-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Mitra';
+  src: url('assets/fonts/MitraWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('assets/fonts/MitraWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/MitraWeb-Regular.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/MitraWeb-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/MitraWeb-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'YekanNumbers';
+  src: url('assets/fonts/YekanNumbers-Regular.eot'); /* IE9 Compat Modes */
+  src: url('assets/fonts/YekanNumbers-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/YekanNumbers-Regular.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/YekanNumbers-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/YekanNumbers-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Koodak';
+  src: url('../fonts/Koodak.otf?#'),  /* IE6–8 */
+       url('fonts/Koodak.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'RoyaBold';
+  src: url('../fonts/RoyaBold.otf?#'),  /* IE6–8 */
+       url('fonts/RoyaBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'Yekan';
+  src: url('../fonts/Yekan.otf?#'),  /* IE6–8 */
+       url('fonts/Yekan.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'Mehr';
+  src: url('../fonts/Mehr.otf?#'),  /* IE6–8 */
+       url('fonts/Mehr.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'Zar';
+  src: url('../fonts/Zar.otf?#'),  /* IE6–8 */
+       url('fonts/Zar.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'Mitra';
+  src: url('../fonts/Mitra.otf?#'),  /* IE6–8 */
+       url('fonts/Mitra.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+  font-family: 'Roya';
+  src: url('../fonts/Roya.otf?#'),  /* IE6–8 */
+       url('fonts/Roya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+.Yekan {
+	font-family: Yekan, Arial, Helvetica, sans-serif;
+}
+
+.Koodak {
+	font-family: Koodak, Arial, Helvetica, sans-serif;
+}
+
+
+.Roya {
+	font-family: Roya, Arial, Helvetica, sans-serif;
+}
+
+.RoyaBold {
+	font-family: RoyaBold, Arial, Helvetica, sans-serif;
+}
+
+
+
+.Zar {
+	font-family: Zar, Arial, Helvetica, sans-serif;
+}
+
+.Mitra {
+	font-family: Mitra, Arial, Helvetica, sans-serif;
+}
+
+.Mehr {
+	font-family: Mehr, Arial, Helvetica, sans-serif;
+}
