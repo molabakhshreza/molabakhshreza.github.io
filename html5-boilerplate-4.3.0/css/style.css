@@ -1,0 +1,642 @@
+header .logotop{
+	width: 1150px;
+	margin-left:auto;
+	margin-right:auto;
+	height:145px;
+	margin-top:18px;
+	display:block;
+}
+header .logotop .logo2{
+	float:right;
+	display:inline;
+}
+header .logotop .logo1{
+	float:left;
+	display:inline;
+}
+header .logotop .menu{
+	margin-top:2px;
+	width:1150px;
+	height:60px;
+	float:right;
+	display:block;
+	border-bottom:solid #00F;
+}
+header .logotop .menu .menuul li{
+	display:inline;
+	float:right;
+	margin-right:11px;
+	line-height:0.6em;
+	border:solid 1px #D5D2D2;
+	padding:10px;
+	border-radius:6px;
+	}
+header .logotop .menu .menuul li:hover{
+	background-color:#D5D2D2;
+}
+header .logotop .menu .menuul li a{
+	text-decoration:none;
+	text-shadow:0.5px 0.5px 0.5px  #000000;
+	color:#000;
+}
+.main{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	width: 1110px;
+	height:2600px;
+}
+
+.main1{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	width: 1110px;
+	height:1930px;
+}
+.main1 .rightmatlab{
+	float:right;
+	width: 33.3333%;
+	height:auto;	
+	direction:rtl;	
+	
+	
+}
+.main1 .matlab{
+	float:right;
+	height:auto;
+	border:solid 1px #D5D2D2;
+	border-radius:6px;
+	direction:rtl;
+}
+.main1 .rightmatlab .matlab2{
+	float:right;
+	direction:rtl;
+	width:100%;
+	height:auto;
+	margin-top:20px;
+}
+.amatlab3{
+	margin-top:30px;
+	
+	
+	
+	
+}
+.amatlab3 a{
+	text-decoration:none;
+	color:#333;
+	
+}
+.amatlab3 a:hover{
+	color:#09C;
+	
+	
+}
+.amatlab2 p{
+	background-color:#777;
+	color:#fff;
+	padding: 0.2em 0.6em 0.3em;
+	width:33%;
+	height:100%;
+	border-radius:5px;
+	
+}
+.main1 .post{
+	float:left;
+	width:63.6667%;
+	height:600px;
+}
+
+.main1 .matlab .logoaside{
+	width:99.5%;
+	height:70px;
+	background-color:#F5F5F5;
+	border:solid 1px #DDD;
+}
+.main1 .matlab .logoaside h4{
+	float:right;
+	margin-right:15px;
+}
+.main1 .matlab .logoaside .btn{
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+	background-color:#428BCA;
+	border-radius:4px;
+	padding:4px;
+}
+.main1 .matlab .logoaside .btn a{
+	text-decoration:none;
+	color:#333;
+}
+.main1 .matlab .matlabright .allmatlab{
+	margin-top:20px;
+}
+.main1 .matlab .matlabright .allmatlab header{
+	display:inline;
+}
+.main1 .matlab .matlabright .allmatlab header{
+	background-color:#F5F5F5;
+	width:90px;
+	margin-right:10px;
+	display:inline;
+}
+
+.main1 .matlab .matlabright .allmatlab .matn{
+	margin-top:0px;
+	padding:6px;
+
+}
+.main1 .matlab .matlabright .allmatlab .matn:hover{
+	border-bottom:solid 1px #cCC;
+	border-top:solid 1px #CCC;
+}
+.main1 .matlab .matlabright .allmatlab .matn a{
+	text-decoration:none;
+	color:#000;
+	font-size:1.2em;
+}
+.main1 .matlab .matlabright .allmatlab .matn a p:hover{
+	color:#06C;
+}
+.main1 .post .maintop{
+	width:99.8%;
+	height:300px;
+	border:solid 1px #D5D2D2;
+
+	background-color:#006
+}
+.main1 .post .maintop .maincenter p{
+	margin-top:0px;
+	float:right;
+	font-size:1.7em;
+	margin-right:15px;
+}
+.main1 .post .maintop .maincenter a{
+	text-decoration:none;
+	color:#FFF;
+	font-family:Nassim;
+	font-size:14px;
+}
+
+.main1 .post .maintop .maincenter{
+	background-color:rgba(0,0,0,8);
+	width:555px;
+	height:143px;
+	margin-left:auto;
+	font-family:Nassim;
+	margin-right:auto;
+	margin-top:45px;
+	padding:30px;
+	direction:rtl;	
+}
+.main1 .post .maintop .maincenter .p2{
+	font-size:1.2em;
+	color:#06C;
+	
+}
+.main1 .post .maintop .maincenter .p2:hover{
+	color:#069;
+}
+.main1 .post .mainpost .postright .p1{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:29%;
+	height:310px;
+	float:right;
+	margin-top:45px;;
+	direction:rtl;
+	margin-left:20px;	
+}
+.main1 .post .mainpost .postright .p4{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:29%;
+	height:310px;
+	float:right;
+	margin-top:45px;;
+	direction:rtl;
+	margin-right:20PX;
+	margin-left:20px;	
+}
+.main1 .post .mainpost .postright .p3{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:29%;
+	height:310px;
+	float:left;
+	margin-top:45px;;
+	direction:rtl;
+	margin-right:20px;
+}
+.main1 .post .mainpost .postright .p3 .panel{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:90%;
+	height:204px;
+	float:inherit;
+	margin-top:10px;;
+	margin-left:5%;
+	margin-right:5%;
+	direction:rtl;
+
+	
+}
+.main1 .post .mainpost .postright .p4 .panel{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:90%;
+	height:204px;
+	float:inherit;
+	margin-top:10px;;
+	margin-left:5%;
+	margin-right:5%;
+	direction:rtl;
+	
+}
+.main1 .post .mainpost .postright .p1 .panel{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:90%;
+	height:204px;
+	float:inherit;
+	margin-top:10px;;
+	margin-left:5%;
+	margin-right:5%;
+	direction:rtl;
+	text-decoration:none;
+	
+}
+.main1 .post .mainpost .postright .p1 a{
+	text-decoration:none;
+	color:#494158;
+}
+.main1 .post .mainpost .postright .p4 a{
+	text-decoration:none;
+	color:#494158;
+}
+.main1 .post .mainpost .postright .p3  a{
+	text-decoration:none;
+	color:#494158;
+}
+.main1 .post .mainpost .postright .p1 a:hover{
+	color:#099;
+}
+.main1 .post .mainpost .postright .p4 a:hover{
+	color:#099;
+}
+.main1 .post .mainpost .postright .p3 a:hover{
+	color:#099;
+}
+.main1 .post .postcenter{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:704px;
+	height:248px;
+	float:inherit;
+	margin-top:20px;;
+	direction:rtl;
+	text-decoration:none;
+			
+}
+.main1 .post .postcenter .right1{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:198px;
+	height:198px;
+	float:right;
+	margin-top:30px;
+	margin-right:15px;
+			
+}
+.main1 .post .postcenter .mleft{
+	border-radius:4px;
+	width:450px;
+	height:198px;
+	float:left;
+	margin-top:30px;
+	margin-left:15px;
+	text-decoration:none;
+	font-family:Nassim;
+}
+.main1 .post .postcenter .mleft a{
+	text-decoration:none;
+	color:#494158;
+	font-family:Nassim;
+	font-size:14px;
+}
+.main1 .post .postcenter .mleft a:hover{
+	color:#099;
+}
+.main1 .post .postcenter .mleft p{
+ 	margin-right:10px;
+}
+.main1 .post .mainpost .postright .p4 a p{
+	margin-top:20px;
+	margin-right:10px;
+}
+.main1 .post .mainpost .postright .p3 a p{
+	margin-top:20px;
+	margin-right:10px;
+}
+.main1 .post .mainpost .postright .p1 a p{
+	margin-top:20px;
+	margin-right:10px;
+}
+.main1 .matlab .matlabright .allmatlab .matn a p{
+	font-family:Mitra,Nassim;
+	color:#333;
+	font-size:18px;
+}	
+.main1 .post .postcenter1{
+	width:704px;
+	height:510px;
+	float:inherit;
+	margin-top:20px;
+			
+}
+.main1 .post .postcenter1 .right2{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:330px;
+	height:510px;
+	float:right;
+			
+}
+.main1 .post .postcenter1 .mleft1{
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:330px;
+	height:510px;
+	float:left;
+	
+}
+.main1 .post .postcenter1 .right2 .pr1{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:310px;
+	height:328px;
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}
+.main1 .post .postcenter1 .mleft1 .pm1{
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+	width:310px;
+	height:328px;
+	float:left;
+	margin-right:10px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}
+.main1 .post .postcenter1 .right2 .pr2{
+	font-family:Nassim;
+	font-size: 13px;
+	float:right;
+	direction:rtl;
+	margin-right:10px;
+	margin-top:20px;
+	margin-left:10px;
+	
+}
+.main1 .post .postcenter1 .mleft1 .pm2{
+	font-family:Nassim;
+	font-size: 13px;
+	float:right;
+	direction:rtl;
+	margin-right:10px;
+	margin-top:20px;
+	margin-left:10px;
+	
+}
+.main1 .post .postcenter1 .right2 .pr2 a{
+
+	text-decoration:none;
+	color:#494158;
+	font-size:14px;
+}
+.main1 .post .postcenter1 .mleft1 .pm2 a{
+	text-decoration:none;
+	color:#494158;
+	font-size:14px;
+}
+.main1 .post .postcenter1 .right2 .pr2 a:hover{
+	color:#09C;
+}
+.main1 .post .postcenter1 .mleft1 .pm2 a:hover{
+	color:#09c;	
+}
+.main1 .post .media{
+	width:704px;
+	height:510px;
+	float:inherit;
+	margin-top:20px;
+}
+.main1 .post .media .media1{
+	width:704px;
+	height:138px;
+	float:inherit;
+	margin-top:10px;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+}
+.main1 .post .media .media2{
+	width:704px;
+	height:138px;
+	float:inherit;
+	margin-top:15px;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+}
+.main1 .post .media .media3{
+	width:704px;
+	height:138px;
+	float:inherit;
+	margin-top:15px;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+}
+.main1 .post .media .media1 .ax{
+	width:74px;
+	height:74px;
+	float:right;
+	margin-top:10px;
+	margin-right:10px;
+	border:solid 1px #CCCCCC;
+	border-radius:4px;
+}
+.main1 .post .media .media1 .ax .ax1{
+	width:64px;
+	height:64px;
+	float:right;
+	margin-top:3px;
+	margin-right:3px;
+	margin-bottom:3px;
+	margin-left:3px;
+	background-color:#E5E5E5;
+	border:solid 1px #CCCCCC;
+}
+.main1 .post .media .media1 .matn1{
+	font-family:Nassim;
+	font-size: 13px;
+	direction:rtl;
+	margin-right:20px;
+	margin-top:20px;
+
+}
+.main1 .post .media .media1 .matn1 a{
+	text-decoration:none;
+	color:#494158;
+	font-size:14px;
+
+}
+.main1 .post .media .media1 .matn1 a:HOVER{
+	color:#009;
+}
+
+.main .mainright{
+	float:right;
+	width: 47%;
+	height:600px;
+	border-radius:6px;
+	margin-top:20px;
+	margin-right:15px;
+	margin-left:15px;	
+	
+	
+}
+.main .mainright1-1{
+	width: 96%;
+	height:auto;
+	float:right;
+	direction:rtl;
+	color:#fff;
+	background-color: #428BCA;
+	border-color: #428BCA;
+	padding:15px 10px;
+	border-radius: 3px;
+	text-decoration:none;
+}
+.main .mainright1{
+	float:right;
+	width: 96%;
+	height:auto;	
+	direction:rtl;
+	border:solid 1px #D5D2D2;
+	text-decoration: none;
+	color:#555;
+	padding:15px 10px;
+}
+.main .mainright a:hover{
+	background-color:#D5D2D2;
+	
+}
+.main .mainleft{
+	float:left;
+	height:595px;
+	width: 47%;
+	direction:rtl;
+	margin-top:20px;
+	margin-right:15px;
+	margin-left:15px;
+}
+.main .mainleft1{
+	height:72px;
+	width: 100%;
+	border:solid 1px #D5D2D2;
+	border-radius:6px;
+}
+.main .mainleft1 img{
+	margin-right:25px;
+	margin-left:25px;
+}
+
+.main .mainleft2{
+	height:500px;
+	width: 100%;
+	margin-top:23px;
+}
+.main .mainleft2-1{
+	height:70px;
+	width: 100%;
+	border:solid 1px #D5D2D2;
+	border-radius:6px;
+	background-color:#F5F5F5;
+}
+.main .mainleft2-1 p{
+	margin-top:25px;
+	margin-right:15px;
+}
+.main .mainleft2-2{
+	height:425px;
+	width: 100%;
+	background-color:#000;
+}
+.mainfooter{
+    background-color:#000;
+    width: 100%;
+    height: 436px;
+    margin-top: 5px;
+    float: right;
+	direction:rtl;
+    display: inline;      
+}
+.footerp1{
+	color:#fff;
+	padding:10px;
+	float: right;
+	width: 30%;
+	margin-right:20px;
+
+}
+.footer1{
+ 	padding-bottom: 8px;
+ 	color: #fff;
+}
+.footer{
+	margin-right: 16.6667%;
+	margin-left: 0px;
+}
+.fot{
+	margin: 0px 0px 10px;
+ 	display: inline;
+	text-align: center;
+ 	padding: 5px;
+ 	text-align:center;
+}
+.footerp3{
+	margin-top:5px;
+	direction:rtl;
+	float:left;
+	margin-left:16.6667%;
+}
+.footerp3 p{
+	color:#FFF;
+	
+}
+.footerul{
+	color: #428BCA;
+	
+	
+}
+.f1 a{
+	color: #428BCA;
+	text-decoration:none;
+	
+	
+}
+.f1 a:hover{
+	color: #06C;
+	
+}
