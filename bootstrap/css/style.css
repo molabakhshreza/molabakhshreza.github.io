@@ -252,7 +252,6 @@ border-bottom:solid #00F;
 
     margin-top: 10px;
 	border-radius:4px;
-	height:740px;
 	float:left;
 
 }
@@ -263,33 +262,27 @@ margin-top: 10px;
 .p1{
 	border:solid 1px #CCCCCC;
 	border-radius:4px;
-	width:28%;
 	height:310px;
 	float:right;
 	margin-top:10px;;
 	direction:rtl;
-	margin-left:20px;	
 }
 .p2{
 	border:solid 1px #CCCCCC;
 	border-radius:4px;
-	width:28%;
 	height:310px;
 	float:left;
 	margin-top:10px;;
 	direction:rtl;
-	margin-right:20px;
 }
 .p4{
 	border:solid 1px #CCCCCC;
+	margin-right:30px;
 	border-radius:4px;
-	width:28%;
 	height:310px;
 	float:right;
 	margin-top:10px;;
 	direction:rtl;
-	margin-right:35PX;
-	margin-left:35px;
 }
 .p1 a:hover{
 	color:#099;
@@ -350,7 +343,6 @@ margin-top: 10px;
 	border-radius:4px;
 }
 .media2{
-	width:704px;
 	height:138px;
 	float:inherit;
 	margin-top:15px;
@@ -358,7 +350,7 @@ margin-top: 10px;
 	border-radius:4px;
 }
 .media3{
-	width:704px;
+	display:block;
 	height:138px;
 	float:inherit;
 	margin-top:15px;
@@ -406,7 +398,7 @@ margin-top: 10px;
 	float:right;
 	height:600px;
 	border-radius:6px;
-	margin-top:340px;	
+	margin-top:25px;	
 		
 }
 .right a:hover{
@@ -437,10 +429,9 @@ margin-top: 10px;
 	padding:15px 10px;
 }
 .left{
-	float:left;
 	height:595px;
 	direction:rtl;
-	margin-top:340px;;
+	margin-top:25px;
 }
 .mainleft1{
 	height:72px;
